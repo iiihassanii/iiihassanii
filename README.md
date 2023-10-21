@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/iiihassanii/count.svg?"  />
+  <img src="[https://profile-counter.glitch.me/iiihassanii/count.svg?](https://github.com/iiihassanii/iiihassanii/blob/main/snake.yml)"  />
 </div>
 
 ###
