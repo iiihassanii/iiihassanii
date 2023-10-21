@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iiihassanii/iiihassanii/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iiihassanii/iiihassanii/snake.svg" alt="Snake animation" />
 
 ###
